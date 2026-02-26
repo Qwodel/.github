@@ -13,7 +13,6 @@
   <p>
     <a href="https://pypi.org/project/qwodel/"><img src="https://img.shields.io/pypi/v/qwodel?color=blue&style=flat-square" alt="PyPI Version"></a>
     <a href="https://pypi.org/project/qwodel/"><img src="https://img.shields.io/pypi/pyversions/qwodel?color=blue&style=flat-square" alt="Python Versions"></a>
-    <a href="https://github.com/qwodel/qwodel/actions"><img src="https://img.shields.io/github/actions/workflow/status/qwodel/qwodel/ci.yml?style=flat-square" alt="Build Status"></a>
     <a href="https://docs.qwodel.com"><img src="https://img.shields.io/badge/docs-available-brightgreen?style=flat-square" alt="Documentation"></a>
     <a href="https://github.com/qwodel/qwodel/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Qwodel_Community_License_v1.0-blue?style=flat-square" alt="License"></a>
   </p>
