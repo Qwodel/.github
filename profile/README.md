@@ -15,6 +15,8 @@
     <a href="https://pypi.org/project/qwodel/"><img src="https://img.shields.io/pypi/pyversions/qwodel?color=blue&style=flat-square" alt="Python Versions"></a>
     <a href="https://docs.qwodel.com"><img src="https://img.shields.io/badge/docs-available-brightgreen?style=flat-square" alt="Documentation"></a>
     <a href="https://github.com/qwodel/qwodel/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Qwodel_Community_License_v1.0-blue?style=flat-square" alt="License"></a>
+   <a href="https://pepy.tech/projects/qwodel"> <img src="https://static.pepy.tech/badge/qwodel" alt="PyPI Downloads">
+</a>
   </p>
 
   <p>
